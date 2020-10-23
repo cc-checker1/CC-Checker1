@@ -1,0 +1,8 @@
+body{
+
+	background: black;
+}
+
+.bg-gradient-default {
+    background: linear-gradient(87deg, #000000 0, #000000 100%) !important;
+}
